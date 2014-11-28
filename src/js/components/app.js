@@ -2,7 +2,6 @@
 * @jsx React.DOM
 */
 var React = require('react');
-console.log(React);
 
 var AppComponent = React.createClass({
     render : function() {

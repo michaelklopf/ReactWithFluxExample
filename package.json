@@ -1,5 +1,5 @@
 {
-  "name": "flux",
+  "name": "DiscoveringFlux",
   "version": "0.0.1",
   "description": "",
   "main": "web.js",
@@ -10,12 +10,11 @@
     "type": "git",
     "url": ""
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Michael Klopf",
   "license": "BSD-2-Clause",
   "browser": {
-    "jquery" : "./node_modules/jquery/dist/jquery.js",
+    "jquery": "./node_modules/jquery/dist/jquery.js",
     "bootstrap": "./node_modules/bootstrap/dist/js/bootstrap.js"
   },
   "dependencies": {
@@ -43,6 +42,7 @@
     "reactify": "^0.14.0",
     "restler": "~3.2.2",
     "stylus": "~0.45.1",
-    "underscore": "^1.7.0"
+    "underscore": "^1.7.0",
+    "flux": "^2.0.1"
   }
 }

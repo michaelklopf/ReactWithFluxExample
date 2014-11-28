@@ -1,8 +1,11 @@
 Making a Flux project to test its capabilities.
 
 Interesting links:  
-Scotch.io Tutorial:  
+Scotch.io tutorial:  
 http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture  
+
+Scotch.io tutorial github repository:  
+https://github.com/scotch-io/react-flux-cart  
 
 Facebook React.js overview page:  
 http://facebook.github.io/react/  
